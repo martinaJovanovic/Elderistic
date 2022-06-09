@@ -5,7 +5,7 @@ There are three types of users: elders, volunteers and organizations. The organi
 
 
 # Features
-This iOS app depending on the role you have lets you:
+Depending on the role you have this iOS app lets you:
 - Elder: make a request for you tasks, view, edit and delete your requests, get details about the assigned volunteer, rate and comment the volunteer after the task is finished
 - Volunteer: enter/edit your free hours, accept/reject tasks, get details for the task, get details about the assigned elder, rate and comment the elder after the task is finished
 - Organization: match volunteers with tasks, view both elder's and volunteer's ratings and comments
