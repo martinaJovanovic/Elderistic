@@ -1,0 +1,379 @@
+
+/* Class = "UITabBarItem"; title = "Active requests"; ObjectID = "1Bf-xB-nMe"; */
+"1Bf-xB-nMe.title" = "Активни барања";
+
+/* Class = "UILabel"; text = "Rate elder"; ObjectID = "1jC-Xp-p0S"; */
+"1jC-Xp-p0S.text" = "Оцени возрасно лице";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "27H-32-Qzn"; */
+"27H-32-Qzn.text" = "Label";
+
+/* Class = "UILabel"; text = "Number of requests:"; ObjectID = "2qY-5U-t0m"; */
+"2qY-5U-t0m.text" = "Број на барања:";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "3Iz-uW-HiE"; */
+"3Iz-uW-HiE.placeholder" = "До";
+
+/* Class = "UILabel"; text = "Assigned volunteer:"; ObjectID = "47o-ab-BzI"; */
+"47o-ab-BzI.text" = "Доделен волонтер:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5uv-5h-Lak"; */
+"5uv-5h-Lak.text" = "Label";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "6af-gP-eOc"; */
+"6af-gP-eOc.text" = "Име и презиме";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6lh-4i-vJ6"; */
+"6lh-4i-vJ6.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Volunteers"; ObjectID = "6pK-Nn-TEu"; */
+"6pK-Nn-TEu.title" = "Волонтери";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6sw-ZQ-Khs"; */
+"6sw-ZQ-Khs.placeholder" = "Email адреса";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "7OS-Rd-aUE"; */
+"7OS-Rd-aUE.text" = "Име и презиме";
+
+/* Class = "UILabel"; text = "Rating:"; ObjectID = "7Zk-7w-7nx"; */
+"7Zk-7w-7nx.text" = "Рејтинг:";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "7er-bE-5to"; */
+"7er-bE-5to.normalTitle" = "НАЈАВА";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "8Is-2X-vrV"; */
+"8Is-2X-vrV.title" = "Опис";
+
+/* Class = "UINavigationItem"; title = "Elders"; ObjectID = "9Pa-SS-IZo"; */
+"9Pa-SS-IZo.title" = "Возрасни лица";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "9Y2-hK-HJa"; */
+"9Y2-hK-HJa.text" = "Име и презиме";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "Aze-Vd-YAI"; */
+"Aze-Vd-YAI.normalTitle" = "Прифати";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Be9-95-5Uc"; */
+"Be9-95-5Uc.normalTitle" = "Зачувај";
+
+/* Class = "UILabel"; text = "Available volunteers:"; ObjectID = "CcS-JD-fUi"; */
+"CcS-JD-fUi.text" = "Слободни волонтери:";
+
+/* Class = "UILabel"; text = "Type of user"; ObjectID = "D4K-kO-UJI"; */
+"D4K-kO-UJI.text" = "Тип на корисник";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "DcR-9o-X9F"; */
+"DcR-9o-X9F.title" = "Одјава";
+
+/* Class = "UILabel"; text = "Rating:"; ObjectID = "EJl-VG-BlT"; */
+"EJl-VG-BlT.text" = "Рејтинг:";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "EbQ-0W-tQ0"; */
+"EbQ-0W-tQ0.placeholder" = "Датум";
+
+/* Class = "UITabBarItem"; title = "Add request"; ObjectID = "Eyu-hq-bDW"; */
+"Eyu-hq-bDW.title" = "Додади барање";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "FEV-9V-J3w"; */
+"FEV-9V-J3w.text" = "Активност";
+
+/* Class = "UILabel"; text = "Rating:"; ObjectID = "FZP-hH-Gk0"; */
+"FZP-hH-Gk0.text" = "Рејтинг:";
+
+/* Class = "UILabel"; text = "Rating:"; ObjectID = "FcJ-RA-h1K"; */
+"FcJ-RA-h1K.text" = "Рејтинг:";
+
+/* Class = "UILabel"; text = "Dark mode"; ObjectID = "Fid-1k-5Hr"; */
+"Fid-1k-5Hr.text" = "Темно";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "FrE-IG-bBC"; */
+"FrE-IG-bBC.text" = "Име и презиме";
+
+/* Class = "UITextView"; text = "Comment"; ObjectID = "FuV-H4-T6n"; */
+"FuV-H4-T6n.text" = "Коментар";
+
+/* Class = "UILabel"; text = "Time interval:"; ObjectID = "G09-od-e1X"; */
+"G09-od-e1X.text" = "Време:";
+
+/* Class = "UIButton"; normalTitle = "Location"; ObjectID = "GVs-5c-1W8"; */
+"GVs-5c-1W8.normalTitle" = "Локација";
+
+/* Class = "UILabel"; text = "Time interval:"; ObjectID = "Gth-Av-oWK"; */
+"Gth-Av-oWK.text" = "Време:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HWc-CA-PFr"; */
+"HWc-CA-PFr.text" = "Label";
+
+/* Class = "UITableViewController"; title = "Active requests"; ObjectID = "Hj0-0P-hvp"; */
+"Hj0-0P-hvp.title" = "Активни барања";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I5G-A4-gFc"; */
+"I5G-A4-gFc.text" = "Label";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "Is2-Fd-3gU"; */
+"Is2-Fd-3gU.text" = "Активност";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "K6w-EC-IK1"; */
+"K6w-EC-IK1.text" = "Опис:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M8V-li-8o8"; */
+"M8V-li-8o8.text" = "Label";
+
+/* Class = "UILabel"; text = "Number of tasks:"; ObjectID = "M8p-tC-ZCO"; */
+"M8p-tC-ZCO.text" = "Број на задачи:";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MMj-da-tEn"; */
+"MMj-da-tEn.placeholder" = "Лозинка";
+
+/* Class = "UINavigationItem"; title = "Регистрација"; ObjectID = "NJz-Vx-Hbn"; */
+"NJz-Vx-Hbn.title" = "Регистрација";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "NWg-cQ-y68"; */
+"NWg-cQ-y68.text" = "Рејтинг";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NbF-x9-uuh"; */
+"NbF-x9-uuh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nhh-4T-Wo7"; */
+"Nhh-4T-Wo7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OJ5-9w-q3Q"; */
+"OJ5-9w-q3Q.text" = "Label";
+
+/* Class = "UIViewController"; title = "Детали"; ObjectID = "PgA-5p-u9B"; */
+"PgA-5p-u9B.title" = "Детали";
+
+/* Class = "UIButton"; normalTitle = "Rate elder"; ObjectID = "QO5-VP-K0z"; */
+"QO5-VP-K0z.normalTitle" = "Оцени возрасно лице";
+
+/* Class = "UIViewController"; title = "Details"; ObjectID = "QSh-vv-H4h"; */
+"QSh-vv-H4h.title" = "Детали";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "Ro5-8S-52e"; */
+"Ro5-8S-52e.text" = "Име и презиме";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "S9J-rN-a3l"; */
+"S9J-rN-a3l.text" = "Регистрација";
+
+/* Class = "UIViewController"; title = "Profile"; ObjectID = "SHL-Pl-g6Y"; */
+"SHL-Pl-g6Y.title" = "Профил";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "8qp-m5-Ukm
+"; */
+"8qp-m5-Ukm.normalTitle" = "Назад";
+
+/* Class = "UILabel"; text = "Activity:"; ObjectID = "STr-Ow-Xw2"; */
+"STr-Ow-Xw2.text" = "Активност:";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "SXM-ec-w5n"; */
+"SXM-ec-w5n.text" = "Активност";
+
+/* Class = "UIButton"; normalTitle = "Add request"; ObjectID = "SrW-kq-Tkk"; */
+"SrW-kq-Tkk.normalTitle" = "Додади барање";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "TGn-BU-val"; */
+"TGn-BU-val.title" = "Одјава";
+
+/* Class = "UIViewController"; title = "Add request"; ObjectID = "Ucm-Em-j4T"; */
+"Ucm-Em-j4T.title" = "Додади барање";
+
+/* Class = "UINavigationItem"; title = "My requests"; ObjectID = "Ur0-xj-gny"; */
+"Ur0-xj-gny.title" = "Мои барања";
+
+/* Class = "UILabel"; text = "Grade"; ObjectID = "V4b-GX-cjt"; */
+"V4b-GX-cjt.text" = "Оцена";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V6D-KI-u1v"; */
+"V6D-KI-u1v.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel request"; ObjectID = "VEn-4Z-2ao"; */
+"VEn-4Z-2ao.normalTitle" = "Откажи барање";
+
+/* Class = "UILabel"; text = "Grade"; ObjectID = "VNu-CM-vNe"; */
+"VNu-CM-vNe.text" = "Оцена";
+
+/* Class = "UILabel"; text = "Rate volunteer"; ObjectID = "Voo-4u-R7X"; */
+"Voo-4u-R7X.text" = "Оцени волонтер";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vvy-Np-76L"; */
+"Vvy-Np-76L.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "WJT-Yr-87E"; */
+"WJT-Yr-87E.normalTitle" = "Регистрација";
+
+/* Class = "UIButton"; normalTitle = "Add request"; ObjectID = "WsA-Ja-nA7"; */
+"WsA-Ja-nA7.normalTitle" = "Додади барање";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X4X-CE-Ogo"; */
+"X4X-CE-Ogo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Xjb-pY-Kbr"; */
+"Xjb-pY-Kbr.normalTitle" = "Додади";
+
+/* Class = "UINavigationItem"; title = "Active requests"; ObjectID = "Xl9-9G-zGk"; */
+"Xl9-9G-zGk.title" = "Активни барања";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "Ybw-GZ-eSQ"; */
+"Ybw-GZ-eSQ.placeholder" = "Од";
+
+/* Class = "UILabel"; text = "Task is finished?"; ObjectID = "a5N-Z6-BIh"; */
+"a5N-Z6-BIh.text" = "Задачата е завршена?";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "a5w-EI-Daf"; */
+"a5w-EI-Daf.text" = "Активност";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aBT-Pw-go8"; */
+"aBT-Pw-go8.text" = "Label";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "bCi-YB-ins"; */
+"bCi-YB-ins.text" = "Име и презиме";
+
+/* Class = "UITabBarItem"; title = "My requests"; ObjectID = "bFO-dO-lgj"; */
+"bFO-dO-lgj.title" = "Мои барања";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "bMZ-9w-x1E"; */
+"bMZ-9w-x1E.text" = "Локација";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c5U-zM-cMF"; */
+"c5U-zM-cMF.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "cMe-qR-31g"; */
+"cMe-qR-31g.title" = "Профил";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dBH-JR-kGV"; */
+"dBH-JR-kGV.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "eMe-XG-lz1"; */
+"eMe-XG-lz1.normalTitle" = "РЕГИСТРАЦИЈА";
+
+/* Class = "UITabBarItem"; title = "Elders"; ObjectID = "eXr-GA-ZlD"; */
+"eXr-GA-ZlD.title" = "Возрасни лица";
+
+/* Class = "UILabel"; text = "Activity:"; ObjectID = "edP-Xy-6b6"; */
+"edP-Xy-6b6.text" = "Активност:";
+
+/* Class = "UIButton"; normalTitle = "Rate volunteer"; ObjectID = "fYT-yS-DQg"; */
+"fYT-yS-DQg.normalTitle" = "Оцени волонтер";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fYb-Jb-A8S"; */
+"fYb-Jb-A8S.text" = "Label";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "feE-ZJ-EUW"; */
+"feE-ZJ-EUW.text" = "Име и презиме";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fzP-b1-ptM"; */
+"fzP-b1-ptM.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "gE1-za-DWP"; */
+"gE1-za-DWP.placeholder" = "Датум";
+
+/* Class = "UILabel"; text = "Elder:"; ObjectID = "gFJ-HE-DKW"; */
+"gFJ-HE-DKW.text" = "Возрасно лице:";
+
+/* Class = "UILabel"; text = "Date&time:"; ObjectID = "gdM-60-Dqu"; */
+"gdM-60-Dqu.text" = "Термин:";
+
+/* Class = "UITabBarItem"; title = "My requests"; ObjectID = "hs8-5C-0ey"; */
+"hs8-5C-0ey.title" = "Мои барања";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "iI1-dY-IjP"; */
+"iI1-dY-IjP.text" = "Датум";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iSf-OV-EIN"; */
+"iSf-OV-EIN.text" = "Label";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "iYy-Sb-zfC"; */
+"iYy-Sb-zfC.text" = "Опис:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "iio-iI-i7c"; */
+"iio-iI-i7c.normalTitle" = "Зачувај";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "ivv-Zn-4EQ"; */
+"ivv-Zn-4EQ.text" = "Датум:";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "jAm-AX-nKO"; */
+"jAm-AX-nKO.title" = "Одјава";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "jJ4-3o-Skw"; */
+"jJ4-3o-Skw.text" = "Локација:";
+
+/* Class = "UITextView"; text = "Comment"; ObjectID = "joH-Uj-hnZ"; */
+"joH-Uj-hnZ.text" = "Коментар";
+
+/* Class = "UINavigationItem"; title = "Volunteers"; ObjectID = "k1y-Ql-T1t"; */
+"k1y-Ql-T1t.title" = "Волонтери";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "l7D-Jf-56t"; */
+"l7D-Jf-56t.text" = "Датум:";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "lPq-ft-XBI"; */
+"lPq-ft-XBI.placeholder" = "До";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "lms-6M-nJQ"; */
+"lms-6M-nJQ.title" = "Одјава";
+
+/* Class = "UILabel"; text = "Free time"; ObjectID = "nii-iO-5Od"; */
+"nii-iO-5Od.text" = "Слободно време";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "p0n-Fe-6Kx"; */
+"p0n-Fe-6Kx.title" = "Профил";
+
+/* Class = "UINavigationItem"; title = "Add request"; ObjectID = "pX6-61-nyC"; */
+"pX6-61-nyC.title" = "Додади барање";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "pyF-id-WV4"; */
+"pyF-id-WV4.placeholder" = "Име и презиме";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qbP-dN-If3"; */
+"qbP-dN-If3.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "qkr-03-3IH"; */
+"qkr-03-3IH.placeholder" = "Телефонски број";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "rwy-EW-gsh"; */
+"rwy-EW-gsh.title" = "Одјава";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "sGQ-13-Szg"; */
+"sGQ-13-Szg.normalTitle" = "Одбиј";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "sNp-0Q-XAU"; */
+"sNp-0Q-XAU.title" = "Детали";
+
+/* Class = "UIBarButtonItem"; title = "назад"; ObjectID = "sPR-gb-hNB"; */
+"sPR-gb-hNB.title" = "назад";
+
+/* Class = "UINavigationItem"; title = "My requests"; ObjectID = "tBi-x4-Xoi"; */
+"tBi-x4-Xoi.title" = "Мои барања";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "tkT-ee-7yW"; */
+"tkT-ee-7yW.placeholder" = "Од";
+
+/* Class = "UIBarButtonItem"; title = "Назад"; ObjectID = "ttq-e8-8lW"; */
+"ttq-e8-8lW.title" = "Назад";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "uyz-zc-Y6V"; */
+"uyz-zc-Y6V.title" = "Одјава";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vB5-bi-Bse"; */
+"vB5-bi-Bse.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vfh-P8-LSd"; */
+"vfh-P8-LSd.placeholder" = "Email адреса";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wCh-xC-GHx"; */
+"wCh-xC-GHx.placeholder" = "Лозинка";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "wPV-AX-E4H"; */
+"wPV-AX-E4H.title" = "Одјава";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "wWd-Gs-foQ"; */
+"wWd-Gs-foQ.text" = "Опис:";
+
+/* Class = "UIButton"; normalTitle = "Choose location different than the current one"; ObjectID = "wtz-lz-4F3"; */
+"wtz-lz-4F3.normalTitle" = "Изберете локација различна од моменталната";
+
+/* Class = "UITextField"; placeholder = "Activity name"; ObjectID = "ypB-p6-LEH"; */
+"ypB-p6-LEH.placeholder" = "Име на активноста";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zaU-um-oRL"; */
+"zaU-um-oRL.text" = "Label";
