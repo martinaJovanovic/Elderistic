@@ -11,11 +11,12 @@ Depending on the role you have this iOS app lets you:
 - Organization: match volunteers with tasks, view both elder's and volunteer's ratings and comments
 It supports dark and light theme, as well as English and Macedonian language.
 
-# Installation
-Clone this repository and import into Xcode
-```sh
-git clone https://github.com/martinaJovanovic/Elderistic
-```
+# How To Run
+1. Clone this repository
+``` git clone https://github.com/martinaJovanovic/Elderistic```
+2. Open shell window and navigate to project folder
+3. Run ```pod install ```
+4. Open .xcworkspace and run the project on selected device or simulator
 # Permissions
 In order to use this app you'll have to grant permission for device's location
 
