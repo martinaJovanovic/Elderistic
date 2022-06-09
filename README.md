@@ -1,6 +1,6 @@
 # About
 
-Elderistic is an iOS application for volunteering. Elders can ask volunteers to do some basic tasks like grocery or medicine shopping, cleaning, making lunch etc. 
+Elderistic is an iOS application in Swift 5 for volunteering. Elders can ask volunteers to do some basic tasks like grocery or medicine shopping, cleaning, making lunch etc. 
 There are three types of users: elders, volunteers and organizations. The organizations assign tasks to volunteers and they make sure that both elders and volunteers are being decent. 
 
 
